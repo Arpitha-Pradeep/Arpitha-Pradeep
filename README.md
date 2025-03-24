@@ -1,11 +1,25 @@
-- 👋 Hi, I’m @Arpitha-Pradeep
-- 👀 I’m interested in data analysis, cloud technologies, and IT support.
-- 🌱 I’m currently learning about machine learning and big data technologies.
-- 💞️ I’m looking to collaborate on projects related to data analytics and technology innovation.
-- 📫 You can reach me by connect with me on LinkedIn.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I enjoy exploring new hiking trails and experimenting with different cuisines in my free time!
-<!---
-Arpitha-Pradeep/Arpitha-Pradeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Arpitha Pradeep!
+Cloud Technical Analyst | 📊 Data & Business Analyst | 🧠 Problem-Solver | 🚀 Tech Enthusiast  
+## 🌟 About Me
+
+I’m a Cloud Technical Analyst and Data Enthusiast with **3+ years of experience** in data analytics, operational optimization, and cloud infrastructure. Passionate about transforming complex data into powerful insights, I thrive at the intersection of technology, strategy, and impact.
+
+With hands-on expertise in **AWS, Python, SQL, Tableau, Power BI, and Genesys Cloud**, I bring a strong ability to deliver scalable, efficient solutions that enhance business performance, improve customer experience, and drive innovation.
+
+## ⚙️ Technical Skills
+
+**Languages:** Python, SQL, Java, R, C, C++  
+**Cloud Platforms:** AWS (EC2, S3, Lambda, CloudFront), Azure  
+**Analytics Tools:** Tableau, Power BI, Looker, SAP Analytics Cloud  
+**Databases:** MySQL, PostgreSQL, SQL Server, MongoDB  
+**DevOps:** Git, Jenkins, CI/CD Pipelines, Terraform  
+**Tools:** Jupyter, RStudio, Salesforce, ServiceNow, Jira, MS Project, Asana, Confluence
+
+## 📬 Let's Connect!
+
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/arpithapradeep)  
+- 📧 Email: arpitha.pradeep30@gmail.com  
+
+> “Empowering businesses through data, and empowering people through purpose.”
+
+Thanks for stopping by! 🌟
