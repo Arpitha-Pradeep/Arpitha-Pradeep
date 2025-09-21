@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Arpitha Pradeep!
-Business Anayst | Cloud Technical Analyst | 📊 Data & Business Analyst | 🧠 Problem-Solver | 🚀 Tech Enthusiast  
+📊 Data & Business Analyst | Cloud Technical Analyst | 🧠 Problem-Solver | 🚀 Tech Enthusiast  
 ## 🌟 About Me 
 
 I’m a Business and Cloud Technical Analyst and Data Enthusiast with **3+ years of experience** in data analytics, operational optimization, and cloud infrastructure. Passionate about transforming complex data into powerful insights, I thrive at the intersection of technology, strategy, and impact.
