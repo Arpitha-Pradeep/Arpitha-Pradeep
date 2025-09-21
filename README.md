@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Arpitha Pradeep!
-Cloud Technical Analyst | 📊 Data & Business Analyst | 🧠 Problem-Solver | 🚀 Tech Enthusiast  
-## 🌟 About Me
+Business Anayst | Cloud Technical Analyst | 📊 Data & Business Analyst | 🧠 Problem-Solver | 🚀 Tech Enthusiast  
+## 🌟 About Me 
 
-I’m a Cloud Technical Analyst and Data Enthusiast with **3+ years of experience** in data analytics, operational optimization, and cloud infrastructure. Passionate about transforming complex data into powerful insights, I thrive at the intersection of technology, strategy, and impact.
+I’m a Business and Cloud Technical Analyst and Data Enthusiast with **3+ years of experience** in data analytics, operational optimization, and cloud infrastructure. Passionate about transforming complex data into powerful insights, I thrive at the intersection of technology, strategy, and impact.
 
 With hands-on expertise in **AWS, Python, SQL, Tableau, Power BI, and Genesys Cloud**, I bring a strong ability to deliver scalable, efficient solutions that enhance business performance, improve customer experience, and drive innovation.
 
@@ -18,7 +18,7 @@ With hands-on expertise in **AWS, Python, SQL, Tableau, Power BI, and Genesys Cl
 ## 📬 Let's Connect!
 
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/arpithapradeep)  
-- 📧 Email: arpitha.pradeep30@gmail.com  
+
 
 > “Empowering businesses through data, and empowering people through purpose.”
 
